@@ -1,16 +1,13 @@
-# csit_workshop
+# ToDO_List
 
-A new Flutter project.
+Record the daily task
 
-## Getting Started
+## Further Details
 
-This project is a starting point for a Flutter application.
+Developed with flutter this app is to record the daily task.
 
-A few resources to get you started if this is your first Flutter project:
+Firebase implementation to modify and record the tasks.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In the stage of implementation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Currently, we can add and mark as completed task, undo it.
